@@ -1,1 +1,2 @@
 First commit from Git
+Second commit was added
